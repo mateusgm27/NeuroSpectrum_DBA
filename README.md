@@ -10,7 +10,7 @@ Disciplina: Banco de Dados
 ## 📋 Sobre o Projeto
 
 Sistema de gerenciamento para clínica de psicologia especializada no **espectro autista**.  
-Contém o modelo conceitual, script de criação do banco e principais consultas SQL.
+Contém o modelo conceitual, script completo de criação do banco e principais consultas SQL.
 
 ---
 
@@ -24,16 +24,16 @@ Contém o modelo conceitual, script de criação do banco e principais consultas
 
 ## 📄 Documentação
 
-**[📕 Ver Documento Completo (PDF)](docs/NEUROSPECTRUM_Banco_de_Dados.pdf)**
+**[📕 Ver Documento Completo do Banco de Dados (PDF)](docs/NEUROSPECTRUM_Banco_de_Dados.pdf)**
 
 ---
 
 ## 🗄️ Scripts SQL
 
-| Arquivo                        | Descrição |
-|-------------------------------|---------|
+| Arquivo              | Descrição |
+|----------------------|---------|
 | [`create_tables.sql`](scripts/create_tables.sql) | Criação de todas as tabelas + chaves estrangeiras |
-| [`consultas.sql`](scripts/consultas.sql)        | Principais consultas SELECT do sistema |
+| [`consultas.sql`](scripts/consultas.sql)         | Principais consultas SELECT do sistema |
 
 ---
 
