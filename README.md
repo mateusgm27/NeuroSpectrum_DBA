@@ -24,8 +24,7 @@ Contém o modelo conceitual, script completo de criação do banco e principais 
 
 ## 📄 Documentação
 
-**[📕 Ver Documento Completo do Banco de Dados (PDF)](docs/NEUROSPECTRUM_Banco_de_Dados.pdf)**
-
+**[📕 Ver Documento Completo do Banco de Dados (PDF)](NEUROSPECTRUM_Banco_de_Dados.pdf)**
 ---
 
 ## 🗄️ Scripts SQL
