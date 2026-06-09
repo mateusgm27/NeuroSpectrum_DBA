@@ -30,7 +30,7 @@ Sistema de gerenciamento especializado para clínicas de psicologia voltadas ao 
 
 | Arquivo              | Descrição |
 |----------------------|---------|
-| [`create_tables.sql`](scripts/create_tables.sql) | Criação de todas as tabelas + chaves estrangeiras |
+| [`create_tables.sql`](scripts/create_tables.sql) | Criação de todas as tabelas + chaves estrangeiras, insert into|
 | [`consultas.sql`](scripts/consultas.sql)         | Principais consultas SELECT do sistema |
 
 ---
