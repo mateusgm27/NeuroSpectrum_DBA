@@ -3,14 +3,13 @@
 **Projeto de Análise e Desenvolvimento de Sistemas (ADS)**
 
 Disciplina: Banco de Dados  
-**Desenvolvido por:** Mateus (DBA) e Fernando
+**Desenvolvido por:** Mateus (DBA) 
 
 ---
 
 ## 📋 Sobre o Projeto
 
-Sistema de gerenciamento para clínica de psicologia especializada no **espectro autista**.  
-Contém o modelo conceitual, script completo de criação do banco e principais consultas SQL.
+Sistema de gerenciamento especializado para clínicas de psicologia voltadas ao espectro autista. Este repositório centraliza toda a inteligência do sistema, contendo a modelagem de processos, diagramas de arquitetura (UML) e o script completo de banco de dados estruturado.
 
 ---
 
@@ -36,12 +35,11 @@ Contém o modelo conceitual, script completo de criação do banco e principais 
 
 ---
 
-## 🛠 Tecnologias Utilizadas
-
-- PostgreSQL / Supabase
-- Modelo Entidade-Relacionamento (MER)
-- Draw.io (Modelo Conceitual)
-
+## 🛠️ Tecnologias Utilizadas
+*   **MySQL:** SGBD utilizado para a persistência e gerenciamento de dados.
+*   **UML (Unified Modeling Language):** Notação utilizada para modelagem do sistema.
+*   **Draw.io:** Ferramenta gráfica para desenvolvimento de diagramas.
+*   **Git & GitHub:** Versionamento de código e documentação.
 ---
 
 **© 2025 NeuroSpectrum — Projeto ADS**
