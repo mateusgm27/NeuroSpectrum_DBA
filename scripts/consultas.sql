@@ -97,7 +97,7 @@ COUNT(DISTINCT p.paciente_id) AS total_pacientes_unicos
 FROM prontuario p
 JOIN profissional prof ON p.profissional_id = prof.profissional_id
 GROUP BY prof.nome, prof.tipo
-ORDER BY total_pacientes_unicos;
+ORDER BY total_pacientes_unicos DESC;
 
 -- 15.Exames Clínicos que já possuem Resultados Concluídos
 SELECT 
