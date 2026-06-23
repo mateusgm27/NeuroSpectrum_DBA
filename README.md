@@ -23,7 +23,7 @@ Sistema de gerenciamento especializado para clínicas de psicologia voltadas ao 
 
 ## 📄 Documentação
 
-**[📕 Ver Documento Completo do Banco de Dados (PDF)](NEUROSPECTRUM_Banco_de_Dados.pdf)**
+**[📕 Ver Documento Completo do Banco de Dados (PDF)](NeuroSpectrum.pdf)**
 ---
 
 ## 🗄️ Scripts SQL
